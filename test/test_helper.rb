@@ -4,7 +4,7 @@ require 'rails/test_help'
 
 class MiniTest::Test
   def self.test_order
-    :alpha
+    :sorted
   end
 end
 
